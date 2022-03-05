@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>img/cone.png</file>
+        <file>img/cube.png</file>
+        <file>img/cylinder.png</file>
+        <file>img/delete.png</file>
+        <file>img/line.png</file>
+        <file>img/logo.png</file>
+        <file>img/pyramid.png</file>
+        <file>img/sphere.png</file>
+        <file>img/splash.png</file>
+    </qresource>
+</RCC>
